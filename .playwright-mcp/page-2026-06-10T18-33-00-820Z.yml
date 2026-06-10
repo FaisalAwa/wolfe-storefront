@@ -1,0 +1,233 @@
+- generic [active] [ref=e1]:
+  - navigation [ref=e2]:
+    - list [ref=e3]:
+      - listitem [ref=e4]:
+        - link "Projects" [ref=e5] [cursor=pointer]:
+          - /url: /projects/residential
+      - listitem [ref=e6]:
+        - link "Shop" [ref=e7] [cursor=pointer]:
+          - /url: /collections/all
+      - listitem [ref=e8]:
+        - link "Press" [ref=e9] [cursor=pointer]:
+          - /url: /press
+    - link "WOLFE" [ref=e10] [cursor=pointer]:
+      - /url: /
+      - generic [ref=e11]:
+        - img [ref=e12]
+        - generic [ref=e15]: WOLFE
+    - list [ref=e16]:
+      - listitem [ref=e17]:
+        - link "About" [ref=e18] [cursor=pointer]:
+          - /url: /about
+      - listitem [ref=e19]:
+        - link "Journal" [ref=e20] [cursor=pointer]:
+          - /url: /journal
+      - listitem [ref=e21]:
+        - link "Contact" [ref=e22] [cursor=pointer]:
+          - /url: /contact
+      - listitem [ref=e23]:
+        - generic [ref=e24]:
+          - textbox "Search for products..." [ref=e25]
+          - img [ref=e27]
+        - button "Open cart" [ref=e29]:
+          - img [ref=e31]
+  - main [ref=e33]:
+    - generic [ref=e37]:
+      - heading "Timeless Interiors, Designed Objects" [level=1] [ref=e38]:
+        - text: Timeless Interiors,
+        - text: Designed Objects
+      - paragraph [ref=e39]: Luxury interior design and artisanal éditions for the world's most discerning clientele. Based in Toronto and Miami.
+    - generic [ref=e41]:
+      - generic [ref=e42]:
+        - generic [ref=e43]: Curated Collection
+        - heading "Wolfe Éditions" [level=2] [ref=e44]
+        - paragraph [ref=e45]: Bespoke furnishings and limited editions for the most discerning collectors worldwide. Handcrafted in partnership with master artisans across Europe and North America.
+      - generic [ref=e46]:
+        - generic [ref=e49] [cursor=pointer]:
+          - generic [ref=e50]: Seating
+          - generic [ref=e51]: Milano Lounge Chair
+          - generic [ref=e52]: Italian velvet, walnut frame
+          - generic [ref=e53]: Upon Request
+        - generic [ref=e56] [cursor=pointer]:
+          - generic [ref=e57]: Tables
+          - generic [ref=e58]: Precursor Dining Table
+          - generic [ref=e59]: Carrara marble, brass base
+          - generic [ref=e60]: Upon Request
+        - generic [ref=e63] [cursor=pointer]:
+          - generic [ref=e64]: Lighting
+          - generic [ref=e65]: Lumière Floor Lamp
+          - generic [ref=e66]: Brass, marble base
+          - generic [ref=e67]: Upon Request
+      - link "View All Éditions" [ref=e69] [cursor=pointer]:
+        - /url: /collections/all
+    - generic [ref=e71]:
+      - generic [ref=e72]:
+        - generic [ref=e73]:
+          - generic [ref=e74]: The Studio
+          - heading "A Design Practice Defined by Precision and Intent" [level=2] [ref=e75]
+        - generic [ref=e76]:
+          - paragraph [ref=e77]: Wolfe Interior Design represents the convergence of timeless European craftsmanship and contemporary design thinking. Founded with a singular vision to create interiors that transcend trends, our studio has become a trusted partner for thoughtfully designed residences and commercial spaces rooted in beauty, functionality, and enduring quality.
+          - paragraph [ref=e78]: Operating between Toronto and Miami, our all-female studio brings over two decades of experience crafting bespoke living environments for private clients, hospitality spaces, and developers across North America.
+          - link "Our Story" [ref=e79] [cursor=pointer]:
+            - /url: /about
+      - generic [ref=e80]:
+        - generic [ref=e83] [cursor=pointer]:
+          - generic [ref=e84]: Residential — Muskoka, ON
+          - generic [ref=e85]: Muskoka Retreat
+          - generic [ref=e86]: A study in restraint set within a raw natural landscape — where architecture and interior move as one.
+        - generic [ref=e89] [cursor=pointer]:
+          - generic [ref=e90]: Residential — Toronto, ON
+          - generic [ref=e91]: Kallea Residences
+          - generic [ref=e92]: Refined interiors for a landmark residential development balancing contemporary form with timeless material palettes.
+    - heading "Selected Works" [level=2] [ref=e97]
+    - generic [ref=e99]:
+      - generic [ref=e100]: Our Reach
+      - heading "A Discerning Global Clientele" [level=2] [ref=e101]
+      - paragraph [ref=e102]: Wolfe maintains a client roster grounded in discretion, precision, and long-term relationships. From private residences for public figures and athletes to boutique hospitality environments, each engagement reflects our commitment to exceptional outcomes.
+      - generic [ref=e103]:
+        - generic [ref=e104]:
+          - generic [ref=e105]: 20+
+          - generic [ref=e106]: Years in Practice
+        - generic [ref=e107]:
+          - generic [ref=e108]: 2,000+
+          - generic [ref=e109]: Interiors Realized
+        - generic [ref=e110]:
+          - generic [ref=e111]: $900M+
+          - generic [ref=e112]: Project Value Delivered
+        - generic [ref=e113]:
+          - generic [ref=e114]: "4"
+          - generic [ref=e115]: Studio Locations
+    - generic [ref=e117]:
+      - generic [ref=e118]:
+        - generic [ref=e119]:
+          - generic [ref=e120]: Current Projects
+          - heading "In Development" [level=2] [ref=e121]
+        - link "View All Projects" [ref=e122] [cursor=pointer]:
+          - /url: /projects/residential
+      - generic [ref=e123]:
+        - generic [ref=e126] [cursor=pointer]:
+          - generic [ref=e127]: Miami, FL — 10,000 SQ FT
+          - generic [ref=e128]: Miami Mansion
+          - link "View Project →" [ref=e129]:
+            - /url: /projects/residential
+        - generic [ref=e130]:
+          - generic [ref=e133] [cursor=pointer]:
+            - generic [ref=e134]: Toronto, ON
+            - generic [ref=e135]: Wellness Collective
+          - generic [ref=e138] [cursor=pointer]:
+            - generic [ref=e139]: Toronto, ON
+            - generic [ref=e140]: Dr. Andrea Med Spa
+    - generic [ref=e142]:
+      - generic [ref=e143]: Press & Media
+      - heading "International Recognition" [level=2] [ref=e144]
+      - generic [ref=e145]:
+        - generic [ref=e148]:
+          - generic [ref=e149]: Architectural Digest
+          - generic [ref=e150]: The New Icons of Luxury Design
+          - generic [ref=e151]: March 2024 — Cover Story
+        - generic [ref=e154]:
+          - generic [ref=e155]: Elle Décor
+          - generic [ref=e156]: European Craftsmanship Meets American Vision
+          - generic [ref=e157]: January 2024
+        - generic [ref=e160]:
+          - generic [ref=e161]: Wallpaper*
+          - generic [ref=e162]: Bespoke Excellence for the Global Elite
+          - generic [ref=e163]: December 2023
+    - generic [ref=e167]:
+      - generic [ref=e168]: Our Locations
+      - heading "The Atelier" [level=2] [ref=e169]
+      - generic [ref=e170]: Toronto · Miami · Global
+      - paragraph [ref=e171]: Operating between Toronto and Miami, Wolfe maintains a distinctly North American perspective shaped by international influence. Our studio works in close collaboration with architects, developers, and a network of specialized artisans to deliver fully realized environments — from concept through execution.
+      - paragraph [ref=e172]: Each project is guided by material intelligence, proportion and scale, and a disciplined, human-centric design approach that places the client at the center of every decision.
+      - link "Meet the Studio" [ref=e173] [cursor=pointer]:
+        - /url: /about
+    - generic [ref=e181]:
+      - generic [ref=e182]: Design Forward
+      - heading "The Studio" [level=2] [ref=e183]
+      - generic [ref=e184]: Toronto · Miami · North America
+      - paragraph [ref=e185]: Our studio's approach to design is grounded in technical precision and artisanal excellence. Every project begins with a deep understanding of how our clients live — their routines, aspirations, and the environments that restore them.
+      - paragraph [ref=e186]: From the selection of natural stone to the custom specification of metalwork and joinery, every decision reflects our commitment to materials that improve with time and spaces that feel enduringly personal.
+      - link "Explore Éditions" [ref=e187] [cursor=pointer]:
+        - /url: /collections/all
+    - generic [ref=e191]:
+      - generic [ref=e192]: Begin Your Journey
+      - heading "Let's Create Something Extraordinary Together" [level=2] [ref=e193]
+      - paragraph [ref=e194]: Our team is selective about the projects we undertake, ensuring each receives the attention and artistry it deserves. We invite you to begin a conversation about your vision.
+      - link "Request Consultation" [ref=e195] [cursor=pointer]:
+        - /url: /contact
+    - generic [ref=e197]:
+      - generic [ref=e198]:
+        - generic [ref=e199]:
+          - link "WOLFE" [ref=e200] [cursor=pointer]:
+            - /url: /
+            - generic [ref=e201]:
+              - img [ref=e202]
+              - generic [ref=e205]: WOLFE
+          - paragraph [ref=e206]: Bespoke interiors and artisanal éditions for the world's most discerning clientele.
+          - generic [ref=e207]:
+            - link "Instagram" [ref=e208] [cursor=pointer]:
+              - /url: https://instagram.com
+              - text: ig
+            - link "Pinterest" [ref=e209] [cursor=pointer]:
+              - /url: https://pinterest.com
+              - text: p
+            - link "LinkedIn" [ref=e210] [cursor=pointer]:
+              - /url: https://linkedin.com
+              - text: in
+        - generic [ref=e211]:
+          - heading "Explore" [level=4] [ref=e212]
+          - list [ref=e213]:
+            - listitem [ref=e214]:
+              - link "Interiors" [ref=e215] [cursor=pointer]:
+                - /url: /interiors
+            - listitem [ref=e216]:
+              - link "Éditions" [ref=e217] [cursor=pointer]:
+                - /url: /collections/all
+            - listitem [ref=e218]:
+              - link "Portfolio" [ref=e219] [cursor=pointer]:
+                - /url: /projects/residential
+            - listitem [ref=e220]:
+              - link "Press" [ref=e221] [cursor=pointer]:
+                - /url: /press
+            - listitem [ref=e222]:
+              - link "Journal" [ref=e223] [cursor=pointer]:
+                - /url: /journal
+            - listitem [ref=e224]:
+              - link "The Atelier" [ref=e225] [cursor=pointer]:
+                - /url: /about
+        - generic [ref=e226]:
+          - heading "Services" [level=4] [ref=e227]
+          - list [ref=e228]:
+            - listitem [ref=e229]:
+              - link "Residential Design" [ref=e230] [cursor=pointer]:
+                - /url: /projects/residential
+            - listitem [ref=e231]:
+              - link "Commercial Interiors" [ref=e232] [cursor=pointer]:
+                - /url: /projects/commercial
+            - listitem [ref=e233]:
+              - link "Bespoke Furniture" [ref=e234] [cursor=pointer]:
+                - /url: /collections/all
+            - listitem [ref=e235]:
+              - link "Art Curation" [ref=e236] [cursor=pointer]:
+                - /url: /art-curation
+            - listitem [ref=e237]:
+              - link "Project Management" [ref=e238] [cursor=pointer]:
+                - /url: /services
+        - generic [ref=e239]:
+          - heading "Contact" [level=4] [ref=e240]
+          - generic [ref=e241]:
+            - link "atelier@wolfedesign.com" [ref=e242] [cursor=pointer]:
+              - /url: mailto:atelier@wolfedesign.com
+            - link "+1 (416) 555-1234" [ref=e243] [cursor=pointer]:
+              - /url: tel:+14165551234
+            - link "Request Consultation" [ref=e244] [cursor=pointer]:
+              - /url: /contact
+      - generic [ref=e245]:
+        - generic [ref=e246]: Global Presence · Toronto · Miami
+        - generic [ref=e247]: © 2026 Wolfe Design Inc. All rights reserved.
+        - generic [ref=e248]:
+          - link "Privacy" [ref=e249] [cursor=pointer]:
+            - /url: /privacy
+          - link "Terms" [ref=e250] [cursor=pointer]:
+            - /url: /terms
+    - region "Notifications alt+T"

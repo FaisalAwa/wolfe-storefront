@@ -1,0 +1,256 @@
+- generic [active] [ref=e1]:
+  - navigation [ref=e2]:
+    - list [ref=e3]:
+      - listitem [ref=e4]:
+        - link "Projects" [ref=e5] [cursor=pointer]:
+          - /url: /projects/residential
+      - listitem [ref=e6]:
+        - link "Shop" [ref=e7] [cursor=pointer]:
+          - /url: /collections/all
+      - listitem [ref=e8]:
+        - link "Press" [ref=e9] [cursor=pointer]:
+          - /url: /press
+    - link "WOLFE" [ref=e10] [cursor=pointer]:
+      - /url: /
+      - generic [ref=e11]:
+        - img [ref=e12]
+        - generic [ref=e15]: WOLFE
+    - list [ref=e16]:
+      - listitem [ref=e17]:
+        - link "About" [ref=e18] [cursor=pointer]:
+          - /url: /about
+      - listitem [ref=e19]:
+        - link "Journal" [ref=e20] [cursor=pointer]:
+          - /url: /journal
+      - listitem [ref=e21]:
+        - link "Contact" [ref=e22] [cursor=pointer]:
+          - /url: /contact
+      - listitem [ref=e23]:
+        - generic [ref=e24]:
+          - textbox "Search for products..." [ref=e25]
+          - img [ref=e27]
+        - button "Open cart" [ref=e29]:
+          - img [ref=e31]
+  - main [ref=e33]:
+    - generic [ref=e34]:
+      - img "Wolfe Éditions" [ref=e35]
+      - generic [ref=e37]:
+        - generic [ref=e38]: Bespoke Collection
+        - heading "Éditions" [level=1] [ref=e39]
+        - paragraph [ref=e40]: Bespoke furnishings for the world's most discerning clientele.
+    - list [ref=e43]:
+      - listitem [ref=e44]:
+        - button "All Pieces" [ref=e45]
+      - listitem [ref=e46]:
+        - button "Seating" [ref=e47]
+      - listitem [ref=e48]:
+        - button "Tables" [ref=e49]
+      - listitem [ref=e50]:
+        - button "Storage" [ref=e51]
+      - listitem [ref=e52]:
+        - button "Lighting" [ref=e53]
+      - listitem [ref=e54]:
+        - button "Décor" [ref=e55]
+    - generic [ref=e56]:
+      - complementary [ref=e57]:
+        - heading "Collections" [level=3] [ref=e58]
+        - list [ref=e59]:
+          - listitem [ref=e60]:
+            - link "All Pieces" [ref=e61] [cursor=pointer]:
+              - /url: /collections/all
+      - generic [ref=e62]:
+        - generic [ref=e63]:
+          - generic [ref=e64]: 0 pieces
+          - combobox [ref=e65] [cursor=pointer]:
+            - 'option "Sort: Featured" [selected]'
+            - 'option "Sort: Price: Low to High"'
+            - 'option "Sort: Price: High to Low"'
+            - 'option "Sort: Newest"'
+        - paragraph [ref=e66]: No pieces found in this collection.
+    - generic [ref=e68]:
+      - heading "Room by Room" [level=2] [ref=e69]
+      - generic [ref=e70]:
+        - generic [ref=e71]:
+          - img "Living Room" [ref=e73]
+          - generic [ref=e74]:
+            - generic [ref=e75]: The Collection
+            - heading "Living Room" [level=3] [ref=e76]
+            - paragraph [ref=e77]: Refined gathering spaces that balance grandeur with intimacy. Our living room collections feature hand-selected sofas, sculptural occasional tables, and curated lighting to anchor any residence.
+            - list [ref=e78]:
+              - listitem [ref=e79]:
+                - generic [ref=e80]: —
+                - text: Bespoke upholstery
+              - listitem [ref=e81]:
+                - generic [ref=e82]: —
+                - text: Natural stone and metal accents
+              - listitem [ref=e83]:
+                - generic [ref=e84]: —
+                - text: Artisan lighting
+            - link "Shop Living Room" [ref=e85] [cursor=pointer]:
+              - /url: /collections/all?room=living-room
+        - generic [ref=e86]:
+          - img "Kitchen & Dining" [ref=e88]
+          - generic [ref=e89]:
+            - generic [ref=e90]: The Collection
+            - heading "Kitchen & Dining" [level=3] [ref=e91]
+            - paragraph [ref=e92]: Where material mastery meets daily ritual. Wolfe's kitchen and dining pieces are designed for those who demand beauty without compromise — from marble-topped dining tables to custom seating.
+            - list [ref=e93]:
+              - listitem [ref=e94]:
+                - generic [ref=e95]: —
+                - text: Natural stone surfaces
+              - listitem [ref=e96]:
+                - generic [ref=e97]: —
+                - text: Custom cabinetry hardware
+              - listitem [ref=e98]:
+                - generic [ref=e99]: —
+                - text: Bespoke dining seating
+            - link "Shop Kitchen & Dining" [ref=e100] [cursor=pointer]:
+              - /url: /collections/all?room=kitchen-&-dining
+        - generic [ref=e101]:
+          - img "Primary Suite" [ref=e103]
+          - generic [ref=e104]:
+            - generic [ref=e105]: The Collection
+            - heading "Primary Suite" [level=3] [ref=e106]
+            - paragraph [ref=e107]: The most personal room in the home deserves the most considered approach. Our primary suite collection emphasises restorative calm through layered textiles, quiet tones, and exceptional craftsmanship.
+            - list [ref=e108]:
+              - listitem [ref=e109]:
+                - generic [ref=e110]: —
+                - text: Upholstered bed frames
+              - listitem [ref=e111]:
+                - generic [ref=e112]: —
+                - text: Bespoke nightstands
+              - listitem [ref=e113]:
+                - generic [ref=e114]: —
+                - text: Curated textile collections
+            - link "Shop Primary Suite" [ref=e115] [cursor=pointer]:
+              - /url: /collections/all?room=primary-suite
+    - generic [ref=e117]:
+      - generic [ref=e118]:
+        - heading "Curated Finishes" [level=2] [ref=e119]
+        - paragraph [ref=e120]: Each Wolfe piece is available in an edited palette of natural materials — selected for their tactile quality, visual depth, and longevity.
+      - generic [ref=e121]:
+        - generic [ref=e122] [cursor=pointer]:
+          - img "Arabesque Blanc" [ref=e124]
+          - generic [ref=e125]: Arabesque Blanc
+          - generic [ref=e126]: Calacatta Marble
+        - generic [ref=e127] [cursor=pointer]:
+          - img "Smoked Walnut" [ref=e129]
+          - generic [ref=e130]: Smoked Walnut
+          - generic [ref=e131]: Solid Hardwood
+        - generic [ref=e132] [cursor=pointer]:
+          - generic [ref=e135]: Aged Brass
+          - generic [ref=e136]: Hand-Patinated Metal
+        - generic [ref=e137] [cursor=pointer]:
+          - generic [ref=e140]: Marquina Noir
+          - generic [ref=e141]: Spanish Marble
+        - generic [ref=e142] [cursor=pointer]:
+          - generic [ref=e145]: Bleached Oak
+          - generic [ref=e146]: White Oak Veneer
+        - generic [ref=e147] [cursor=pointer]:
+          - generic [ref=e150]: Sage Bouclé
+          - generic [ref=e151]: Italian Wool Blend
+    - generic [ref=e154]:
+      - generic [ref=e155]: Begin Your Journey
+      - heading "Let's Create Something Extraordinary Together" [level=2] [ref=e156]
+      - paragraph [ref=e157]: Our team is selective about the projects we undertake, ensuring each receives the attention and artistry it deserves. We invite you to begin a conversation about your vision.
+      - link "Request Consultation" [ref=e158] [cursor=pointer]:
+        - /url: /contact
+    - generic [ref=e160]:
+      - generic [ref=e161]:
+        - generic [ref=e162]:
+          - link "WOLFE" [ref=e163] [cursor=pointer]:
+            - /url: /
+            - generic [ref=e164]:
+              - img [ref=e165]
+              - generic [ref=e168]: WOLFE
+          - paragraph [ref=e169]: Bespoke interiors and artisanal éditions for the world's most discerning clientele.
+          - generic [ref=e170]:
+            - link "Instagram" [ref=e171] [cursor=pointer]:
+              - /url: https://instagram.com
+              - img [ref=e172]
+            - link "Pinterest" [ref=e176] [cursor=pointer]:
+              - /url: https://pinterest.com
+              - img [ref=e177]
+            - link "LinkedIn" [ref=e179] [cursor=pointer]:
+              - /url: https://linkedin.com
+              - img [ref=e180]
+        - generic [ref=e182]:
+          - heading "Explore" [level=4] [ref=e183]
+          - list [ref=e184]:
+            - listitem [ref=e185]:
+              - link "Interiors" [ref=e186] [cursor=pointer]:
+                - /url: /interiors
+            - listitem [ref=e187]:
+              - link "Éditions" [ref=e188] [cursor=pointer]:
+                - /url: /collections/all
+            - listitem [ref=e189]:
+              - link "Portfolio" [ref=e190] [cursor=pointer]:
+                - /url: /projects/residential
+            - listitem [ref=e191]:
+              - link "Press" [ref=e192] [cursor=pointer]:
+                - /url: /press
+            - listitem [ref=e193]:
+              - link "Journal" [ref=e194] [cursor=pointer]:
+                - /url: /journal
+            - listitem [ref=e195]:
+              - link "The Atelier" [ref=e196] [cursor=pointer]:
+                - /url: /about
+        - generic [ref=e197]:
+          - heading "Services" [level=4] [ref=e198]
+          - list [ref=e199]:
+            - listitem [ref=e200]:
+              - link "Residential Design" [ref=e201] [cursor=pointer]:
+                - /url: /projects/residential
+            - listitem [ref=e202]:
+              - link "Commercial Interiors" [ref=e203] [cursor=pointer]:
+                - /url: /projects/commercial
+            - listitem [ref=e204]:
+              - link "Bespoke Furniture" [ref=e205] [cursor=pointer]:
+                - /url: /collections/all
+            - listitem [ref=e206]:
+              - link "Art Curation" [ref=e207] [cursor=pointer]:
+                - /url: /art-curation
+            - listitem [ref=e208]:
+              - link "Project Management" [ref=e209] [cursor=pointer]:
+                - /url: /services
+        - generic [ref=e210]:
+          - heading "Contact" [level=4] [ref=e211]
+          - generic [ref=e212]:
+            - link "atelier@wolfedesign.com" [ref=e213] [cursor=pointer]:
+              - /url: mailto:atelier@wolfedesign.com
+            - link "+1 (416) 555-1234" [ref=e214] [cursor=pointer]:
+              - /url: tel:+14165551234
+            - link "Request Consultation" [ref=e215] [cursor=pointer]:
+              - /url: /contact
+      - generic [ref=e216]:
+        - generic [ref=e217]: Global Presence · Toronto · Miami
+        - generic [ref=e218]: © 2026 Wolfe Design Inc. All rights reserved.
+        - generic [ref=e219]:
+          - link "Privacy" [ref=e220] [cursor=pointer]:
+            - /url: /privacy
+          - link "Terms" [ref=e221] [cursor=pointer]:
+            - /url: /terms
+    - region "Notifications alt+T":
+      - list:
+        - listitem [ref=e222]:
+          - button "Close toast" [ref=e223] [cursor=pointer]:
+            - img [ref=e224]
+          - generic [ref=e227]:
+            - generic [ref=e228]: 🛍️ Welcome to Next.js Commerce!
+            - generic [ref=e229]:
+              - text: This is a high-performance, SSR storefront powered by Shopify, Next.js, and Vercel.
+              - link "Deploy your own" [ref=e230] [cursor=pointer]:
+                - /url: https://vercel.com/templates/next.js/nextjs-commerce
+              - text: .
+  - generic [ref=e235] [cursor=pointer]:
+    - button "Open Next.js Dev Tools" [ref=e236]:
+      - img [ref=e237]
+    - generic [ref=e240]:
+      - button "Open issues overlay" [ref=e241]:
+        - generic [ref=e242]:
+          - generic [ref=e243]: "0"
+          - generic [ref=e244]: "1"
+        - generic [ref=e245]: Issue
+      - button "Collapse issues badge" [ref=e246]:
+        - img [ref=e247]
+  - alert [ref=e249]

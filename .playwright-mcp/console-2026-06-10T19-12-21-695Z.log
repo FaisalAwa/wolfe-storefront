@@ -1,0 +1,45 @@
+[     128ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/4f160_next_dist_4fea854d._.js:2242
+[     642ms] [LOG] [Fast Refresh] done in 621ms @ http://localhost:3001/_next/static/chunks/4f160_next_dist_4fea854d._.js:2242
+[     746ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/4f160_next_dist_4fea854d._.js:2242
+[     746ms] [LOG] [Fast Refresh] done in 104ms @ http://localhost:3001/_next/static/chunks/4f160_next_dist_4fea854d._.js:2242
+[    2307ms] [WARNING] <link rel=preload> must have a valid `as` value @ http://localhost:3001/product/belgravia-sofa:0
+[    2455ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/4f160_next_dist_4fea854d._.js:2242
+[    2559ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/4f160_next_dist_4fea854d._.js:2242
+[    2888ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/4f160_next_dist_4fea854d._.js:2242
+[    3043ms] [LOG] [Fast Refresh] done in 261ms @ http://localhost:3001/_next/static/chunks/4f160_next_dist_4fea854d._.js:2242
+[    3171ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/4f160_next_dist_4fea854d._.js:2242
+[    3373ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:3001/product/belgravia-sofa:0
+[    3374ms] [LOG] [Fast Refresh] done in 314ms @ http://localhost:3001/_next/static/chunks/4f160_next_dist_4fea854d._.js:2242
+[    3380ms] Error: {error: ..., query: ...}
+    at resolveErrorDev (http://localhost:3001/_next/static/chunks/4f160_next_dist_compiled_react-server-dom-turbopack-experimental_5cadb070._.js:1861:106)
+    at processFullStringRow (http://localhost:3001/_next/static/chunks/4f160_next_dist_compiled_react-server-dom-turbopack-experimental_5cadb070._.js:2359:29)
+    at processFullBinaryRow (http://localhost:3001/_next/static/chunks/4f160_next_dist_compiled_react-server-dom-turbopack-experimental_5cadb070._.js:2318:9)
+    at processBinaryChunk (http://localhost:3001/_next/static/chunks/4f160_next_dist_compiled_react-server-dom-turbopack-experimental_5cadb070._.js:2437:98)
+    at progress (http://localhost:3001/_next/static/chunks/4f160_next_dist_compiled_react-server-dom-turbopack-experimental_5cadb070._.js:2606:13)
+[    3853ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:3001/product/belgravia-sofa:0
+[    3861ms] Error: {error: ..., query: ...}
+    at resolveErrorDev (http://localhost:3001/_next/static/chunks/4f160_next_dist_compiled_react-server-dom-turbopack-experimental_5cadb070._.js:1861:106)
+    at processFullStringRow (http://localhost:3001/_next/static/chunks/4f160_next_dist_compiled_react-server-dom-turbopack-experimental_5cadb070._.js:2359:29)
+    at processFullBinaryRow (http://localhost:3001/_next/static/chunks/4f160_next_dist_compiled_react-server-dom-turbopack-experimental_5cadb070._.js:2318:9)
+    at processBinaryChunk (http://localhost:3001/_next/static/chunks/4f160_next_dist_compiled_react-server-dom-turbopack-experimental_5cadb070._.js:2437:98)
+    at progress (http://localhost:3001/_next/static/chunks/4f160_next_dist_compiled_react-server-dom-turbopack-experimental_5cadb070._.js:2606:13)
+[  288835ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/4f160_next_dist_4fea854d._.js:2242
+[  290398ms] [WARNING] [Fast Refresh] performing full reload
+
+Fast Refresh will perform a full reload when you edit a file that's imported by modules outside of the React rendering tree.
+You might have a file which exports a React component but also exports a value that is imported by a non-React component file.
+Consider migrating the non-React component export to a separate file and importing it into both files.
+
+It is also possible the parent component of the component you edited is a class component, which disables Fast Refresh.
+Fast Refresh requires at least one parent function component in your React tree. @ http://localhost:3001/_next/static/chunks/4f160_next_dist_4fea854d._.js:2242
+[  290404ms] [LOG] [Fast Refresh] done in 1664ms @ http://localhost:3001/_next/static/chunks/4f160_next_dist_4fea854d._.js:2242
+[  290555ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/4f160_next_dist_4fea854d._.js:2242
+[  290799ms] [LOG] [Fast Refresh] done in 350ms @ http://localhost:3001/_next/static/chunks/4f160_next_dist_4fea854d._.js:2242
+[  291424ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/4f160_next_dist_4fea854d._.js:2242
+[  291697ms] [LOG] [Fast Refresh] done in 374ms @ http://localhost:3001/_next/static/chunks/4f160_next_dist_4fea854d._.js:2242
+[  291836ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/4f160_next_dist_4fea854d._.js:2242
+[  291935ms] [LOG] [Fast Refresh] done in 208ms @ http://localhost:3001/_next/static/chunks/4f160_next_dist_4fea854d._.js:2242
+[  291971ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3001/product/belgravia-sofa?image=3:0
+[  292142ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/4f160_next_dist_4fea854d._.js:2242
+[  292161ms] [WARNING] <link rel=preload> must have a valid `as` value @ http://localhost:3001/_next/static/chunks/ab84b_dist_compiled_react-dom-experimental_cjs_react-dom-client_development_647add9b.js:16899
+[  292204ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/4f160_next_dist_4fea854d._.js:2242

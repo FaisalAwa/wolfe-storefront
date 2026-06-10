@@ -1,0 +1,245 @@
+- generic [active] [ref=e1]:
+  - navigation [ref=e2]:
+    - list [ref=e3]:
+      - listitem [ref=e4]:
+        - link "Projects" [ref=e5] [cursor=pointer]:
+          - /url: /projects/residential
+      - listitem [ref=e6]:
+        - link "Shop" [ref=e7] [cursor=pointer]:
+          - /url: /collections/all
+      - listitem [ref=e8]:
+        - link "Press" [ref=e9] [cursor=pointer]:
+          - /url: /press
+    - link "WOLFE" [ref=e10] [cursor=pointer]:
+      - /url: /
+      - generic [ref=e11]:
+        - img [ref=e12]
+        - generic [ref=e15]: WOLFE
+    - list [ref=e16]:
+      - listitem [ref=e17]:
+        - link "About" [ref=e18] [cursor=pointer]:
+          - /url: /about
+      - listitem [ref=e19]:
+        - link "Journal" [ref=e20] [cursor=pointer]:
+          - /url: /journal
+      - listitem [ref=e21]:
+        - link "Contact" [ref=e22] [cursor=pointer]:
+          - /url: /contact
+      - listitem [ref=e23]:
+        - generic [ref=e24]:
+          - textbox "Search for products..." [ref=e25]
+          - img [ref=e27]
+        - button "Open cart" [ref=e29]:
+          - img [ref=e31]
+  - main [ref=e33]:
+    - generic [ref=e34]:
+      - img "Wolfe Press" [ref=e35]
+      - generic [ref=e37]:
+        - generic [ref=e38]: Press & Publications
+        - heading "Press" [level=1] [ref=e39]
+    - generic [ref=e42]:
+      - heading "International Recognition & Media Coverage" [level=2] [ref=e44]
+      - generic [ref=e45]:
+        - paragraph [ref=e46]: Wolfe Interior Design has been recognized by leading publications across North America and Europe for its distinctive approach to luxury residential and commercial design.
+        - paragraph [ref=e47]: From cover stories in Architectural Digest to features in Elle Décor and Wallpaper*, our studio's work is consistently acknowledged for its technical mastery, material intelligence, and human-centered philosophy.
+    - generic [ref=e49]:
+      - heading "Recent Highlights" [level=2] [ref=e50]
+      - generic [ref=e51]:
+        - generic [ref=e52] [cursor=pointer]:
+          - img "Architectural Digest feature" [ref=e54]
+          - generic [ref=e55]:
+            - generic [ref=e56]: Architectural Digest
+            - heading "The New Icons of Luxury Design" [level=3] [ref=e57]
+            - text: March 2024 — Cover Story
+        - generic [ref=e58]:
+          - generic [ref=e59] [cursor=pointer]:
+            - img "Elle Décor" [ref=e60]
+            - generic [ref=e61]:
+              - generic [ref=e62]: Elle Décor
+              - heading "European Craftsmanship Meets American Vision" [level=3] [ref=e63]
+              - text: January 2024
+          - generic [ref=e64] [cursor=pointer]:
+            - img "Wallpaper*" [ref=e65]
+            - generic [ref=e66]:
+              - generic [ref=e67]: Wallpaper*
+              - heading "Bespoke Excellence for the Global Elite" [level=3] [ref=e68]
+              - text: December 2023
+    - generic [ref=e70]:
+      - heading "All Coverage" [level=2] [ref=e71]
+      - paragraph [ref=e72]: A selection of international media features, awards, and publications.
+      - generic [ref=e73]:
+        - generic [ref=e74] [cursor=pointer]:
+          - generic [ref=e75]:
+            - img "Architectural Digest" [ref=e76]
+            - generic [ref=e77]: Cover Story
+          - generic [ref=e78]: Architectural Digest
+          - heading "The New Icons of Luxury Design" [level=3] [ref=e79]
+          - paragraph [ref=e80]: Wolfe Interior Design's signature residential project in Toronto earns global recognition for its mastery of material and restraint.
+          - generic [ref=e81]:
+            - generic [ref=e82]: March 2024
+            - generic [ref=e83]: Read →
+        - generic [ref=e84] [cursor=pointer]:
+          - img "Elle Décor" [ref=e86]
+          - generic [ref=e87]: Elle Décor
+          - heading "European Craftsmanship Meets American Vision" [level=3] [ref=e88]
+          - paragraph [ref=e89]: Inside the studio that is redefining luxury residential design in North America.
+          - generic [ref=e90]:
+            - generic [ref=e91]: January 2024
+            - generic [ref=e92]: Read →
+        - generic [ref=e93] [cursor=pointer]:
+          - img "Wallpaper*" [ref=e95]
+          - generic [ref=e96]: Wallpaper*
+          - heading "Bespoke Excellence for the Global Elite" [level=3] [ref=e97]
+          - paragraph [ref=e98]: How Wolfe has built a reputation for client discretion and uncompromising material quality.
+          - generic [ref=e99]:
+            - generic [ref=e100]: December 2023
+            - generic [ref=e101]: Read →
+        - generic [ref=e102] [cursor=pointer]:
+          - img "Azure Magazine" [ref=e104]
+          - generic [ref=e105]: Azure Magazine
+          - heading "The Art of Restraint" [level=3] [ref=e106]
+          - paragraph [ref=e107]: A study in how Wolfe Interior Design strips away excess to reveal the essential beauty of a space.
+          - generic [ref=e108]:
+            - generic [ref=e109]: November 2023
+            - generic [ref=e110]: Read →
+        - generic [ref=e111] [cursor=pointer]:
+          - generic [ref=e112]:
+            - img "House & Home" [ref=e113]
+            - generic [ref=e114]: Award
+          - generic [ref=e115]: House & Home
+          - heading "Canada's Most Influential Interior Studios" [level=3] [ref=e116]
+          - paragraph [ref=e117]: Wolfe named among the top five interior design practices shaping the Canadian luxury market.
+          - generic [ref=e118]:
+            - generic [ref=e119]: September 2023
+            - generic [ref=e120]: Read →
+        - generic [ref=e121] [cursor=pointer]:
+          - img "The Globe and Mail" [ref=e123]
+          - generic [ref=e124]: The Globe and Mail
+          - heading "Designing the New Canadian Luxury" [level=3] [ref=e125]
+          - paragraph [ref=e126]: Jessica Neilas on building a global reputation from a Toronto address.
+          - generic [ref=e127]:
+            - generic [ref=e128]: August 2023
+            - generic [ref=e129]: Read →
+        - generic [ref=e130] [cursor=pointer]:
+          - img "Interior Design" [ref=e132]
+          - generic [ref=e133]: Interior Design
+          - heading "Wellness at the Core" [level=3] [ref=e134]
+          - paragraph [ref=e135]: How Wolfe's human-centric approach is transforming how we think about luxury living.
+          - generic [ref=e136]:
+            - generic [ref=e137]: June 2023
+            - generic [ref=e138]: Read →
+        - generic [ref=e139] [cursor=pointer]:
+          - img "Toronto Life" [ref=e141]
+          - generic [ref=e142]: Toronto Life
+          - heading "The Designer's Designer" [level=3] [ref=e143]
+          - paragraph [ref=e144]: Why architects and developers trust Wolfe with their most complex and prestigious projects.
+          - generic [ref=e145]:
+            - generic [ref=e146]: April 2023
+            - generic [ref=e147]: Read →
+        - generic [ref=e148] [cursor=pointer]:
+          - img "Condé Nast Traveler" [ref=e150]
+          - generic [ref=e151]: Condé Nast Traveler
+          - heading "Boutique Hospitality Reimagined" [level=3] [ref=e152]
+          - paragraph [ref=e153]: Wolfe's commercial interiors division is setting a new standard for intimate hospitality experiences.
+          - generic [ref=e154]:
+            - generic [ref=e155]: March 2023
+            - generic [ref=e156]: Read →
+      - generic [ref=e157]:
+        - paragraph [ref=e158]: Showing 9 of 24 features
+        - button "Load More" [ref=e159]
+    - generic [ref=e162]:
+      - generic [ref=e163]: Begin Your Journey
+      - heading "Let's Create Something Extraordinary Together" [level=2] [ref=e164]
+      - paragraph [ref=e165]: Our team is selective about the projects we undertake, ensuring each receives the attention and artistry it deserves. We invite you to begin a conversation about your vision.
+      - link "Request Consultation" [ref=e166] [cursor=pointer]:
+        - /url: /contact
+    - generic [ref=e168]:
+      - generic [ref=e169]:
+        - generic [ref=e170]:
+          - link "WOLFE" [ref=e171] [cursor=pointer]:
+            - /url: /
+            - generic [ref=e172]:
+              - img [ref=e173]
+              - generic [ref=e176]: WOLFE
+          - paragraph [ref=e177]: Bespoke interiors and artisanal éditions for the world's most discerning clientele.
+          - generic [ref=e178]:
+            - link "Instagram" [ref=e179] [cursor=pointer]:
+              - /url: https://instagram.com
+              - img [ref=e180]
+            - link "Pinterest" [ref=e184] [cursor=pointer]:
+              - /url: https://pinterest.com
+              - img [ref=e185]
+            - link "LinkedIn" [ref=e187] [cursor=pointer]:
+              - /url: https://linkedin.com
+              - img [ref=e188]
+        - generic [ref=e190]:
+          - heading "Explore" [level=4] [ref=e191]
+          - list [ref=e192]:
+            - listitem [ref=e193]:
+              - link "Interiors" [ref=e194] [cursor=pointer]:
+                - /url: /interiors
+            - listitem [ref=e195]:
+              - link "Éditions" [ref=e196] [cursor=pointer]:
+                - /url: /collections/all
+            - listitem [ref=e197]:
+              - link "Portfolio" [ref=e198] [cursor=pointer]:
+                - /url: /projects/residential
+            - listitem [ref=e199]:
+              - link "Press" [ref=e200] [cursor=pointer]:
+                - /url: /press
+            - listitem [ref=e201]:
+              - link "Journal" [ref=e202] [cursor=pointer]:
+                - /url: /journal
+            - listitem [ref=e203]:
+              - link "The Atelier" [ref=e204] [cursor=pointer]:
+                - /url: /about
+        - generic [ref=e205]:
+          - heading "Services" [level=4] [ref=e206]
+          - list [ref=e207]:
+            - listitem [ref=e208]:
+              - link "Residential Design" [ref=e209] [cursor=pointer]:
+                - /url: /projects/residential
+            - listitem [ref=e210]:
+              - link "Commercial Interiors" [ref=e211] [cursor=pointer]:
+                - /url: /projects/commercial
+            - listitem [ref=e212]:
+              - link "Bespoke Furniture" [ref=e213] [cursor=pointer]:
+                - /url: /collections/all
+            - listitem [ref=e214]:
+              - link "Art Curation" [ref=e215] [cursor=pointer]:
+                - /url: /art-curation
+            - listitem [ref=e216]:
+              - link "Project Management" [ref=e217] [cursor=pointer]:
+                - /url: /services
+        - generic [ref=e218]:
+          - heading "Contact" [level=4] [ref=e219]
+          - generic [ref=e220]:
+            - link "atelier@wolfedesign.com" [ref=e221] [cursor=pointer]:
+              - /url: mailto:atelier@wolfedesign.com
+            - link "+1 (416) 555-1234" [ref=e222] [cursor=pointer]:
+              - /url: tel:+14165551234
+            - link "Request Consultation" [ref=e223] [cursor=pointer]:
+              - /url: /contact
+      - generic [ref=e224]:
+        - generic [ref=e225]: Global Presence · Toronto · Miami
+        - generic [ref=e226]: © 2026 Wolfe Design Inc. All rights reserved.
+        - generic [ref=e227]:
+          - link "Privacy" [ref=e228] [cursor=pointer]:
+            - /url: /privacy
+          - link "Terms" [ref=e229] [cursor=pointer]:
+            - /url: /terms
+    - region "Notifications alt+T":
+      - list:
+        - listitem [ref=e230]:
+          - button "Close toast" [ref=e231] [cursor=pointer]:
+            - img [ref=e232]
+          - generic [ref=e235]:
+            - generic [ref=e236]: 🛍️ Welcome to Next.js Commerce!
+            - generic [ref=e237]:
+              - text: This is a high-performance, SSR storefront powered by Shopify, Next.js, and Vercel.
+              - link "Deploy your own" [ref=e238] [cursor=pointer]:
+                - /url: https://vercel.com/templates/next.js/nextjs-commerce
+              - text: .
+  - button "Open Next.js Dev Tools" [ref=e244] [cursor=pointer]:
+    - img [ref=e245]
+  - alert [ref=e248]

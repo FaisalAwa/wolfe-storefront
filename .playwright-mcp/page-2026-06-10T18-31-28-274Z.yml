@@ -1,0 +1,473 @@
+- generic [active] [ref=e1]:
+  - generic "Site announcements" [ref=e2]:
+    - generic [ref=e3]:
+      - generic [ref=e4]:
+        - text: 🌿 Subscribe & Save 10%
+        - generic [ref=e5]: ·
+      - generic [ref=e6]:
+        - text: Free Express Delivery on Orders £45+
+        - generic [ref=e7]: ·
+      - generic [ref=e8]:
+        - text: As seen in
+        - generic [ref=e9]: ·
+      - generic [ref=e10]:
+        - text: Dragon's Den
+        - generic [ref=e11]: ·
+      - generic [ref=e12]:
+        - text: Women's Health
+        - generic [ref=e13]: ·
+      - generic [ref=e14]:
+        - text: The Guardian
+        - generic [ref=e15]: ·
+      - generic [ref=e16]:
+        - text: Vogue
+        - generic [ref=e17]: ·
+      - generic [ref=e18]:
+        - text: Whole Foods
+        - generic [ref=e19]: ·
+      - generic [ref=e20]:
+        - text: David Lloyd
+        - generic [ref=e21]: ·
+      - generic [ref=e22]:
+        - text: 🌿 Subscribe & Save 10%
+        - generic [ref=e23]: ·
+      - generic [ref=e24]:
+        - text: Free Express Delivery on Orders £45+
+        - generic [ref=e25]: ·
+      - generic [ref=e26]:
+        - text: As seen in
+        - generic [ref=e27]: ·
+      - generic [ref=e28]:
+        - text: Dragon's Den
+        - generic [ref=e29]: ·
+      - generic [ref=e30]:
+        - text: Women's Health
+        - generic [ref=e31]: ·
+      - generic [ref=e32]:
+        - text: The Guardian
+        - generic [ref=e33]: ·
+      - generic [ref=e34]:
+        - text: Vogue
+        - generic [ref=e35]: ·
+      - generic [ref=e36]:
+        - text: Whole Foods
+        - generic [ref=e37]: ·
+      - generic [ref=e38]: David Lloyd
+  - navigation "Main navigation" [ref=e39]:
+    - generic [ref=e40]:
+      - link "Health and Holistics home" [ref=e41] [cursor=pointer]:
+        - /url: /
+        - img "Health & Holistics" [ref=e42]
+      - list [ref=e43]:
+        - listitem [ref=e44]:
+          - link "Home" [ref=e45] [cursor=pointer]:
+            - /url: /
+        - listitem [ref=e46]:
+          - link "Shop" [ref=e47] [cursor=pointer]:
+            - /url: /collections/all
+        - listitem [ref=e48]:
+          - link "Our Story" [ref=e49] [cursor=pointer]:
+            - /url: /about
+        - listitem [ref=e50]: Collections ▾
+      - generic [ref=e51]:
+        - generic [ref=e53]:
+          - textbox "Search for products..." [ref=e54]
+          - img [ref=e56]
+        - button "Open cart" [ref=e58]:
+          - img [ref=e60]
+  - main [ref=e62]:
+    - generic [ref=e64]:
+      - generic [ref=e65]:
+        - generic [ref=e66]:
+          - generic [ref=e67]: ★★★★★
+          - generic [ref=e68]: Excellent · 2,400+ verified reviews
+          - generic [ref=e69]: TRUSTPILOT
+        - heading "92 minerals. One jar. Endless results." [level=1] [ref=e70]:
+          - text: 92 minerals.
+          - text: One jar.
+          - text: Endless results.
+        - paragraph [ref=e71]: Wildcrafted from St. Lucia's pristine coastline. Prepared fresh daily. No fillers, no preservatives — just the complete nutritional spectrum your body needs to thrive.
+        - generic [ref=e72]:
+          - generic [ref=e73]: Clearer Skin
+          - generic [ref=e74]: Sustained Energy
+          - generic [ref=e75]: Stronger Immunity
+          - generic [ref=e76]: Gut Health
+          - generic [ref=e77]: Thyroid
+        - generic [ref=e78]:
+          - link "Shop Full Spectrum" [ref=e79] [cursor=pointer]:
+            - /url: /collections/all
+          - link "View All Products" [ref=e80] [cursor=pointer]:
+            - /url: /collections/all
+        - generic [ref=e81]:
+          - generic [ref=e82]:
+            - generic [ref=e83]: ✓
+            - text: Certified Organic
+          - generic [ref=e84]:
+            - generic [ref=e85]: ✓
+            - text: Free Delivery Over £75
+          - generic [ref=e86]:
+            - generic [ref=e87]: ✓
+            - text: Made Fresh Daily
+          - generic [ref=e88]:
+            - generic [ref=e89]: ✓
+            - text: 30-Day Guarantee
+      - img "Full Spectrum Sea Moss Gel" [ref=e92]
+    - generic [ref=e94]:
+      - generic [ref=e95]: The Science
+      - heading "Why It Works" [level=2] [ref=e96]
+      - paragraph [ref=e97]: Sea moss isn't new — it's been used for centuries. We've just made it better.
+      - generic [ref=e98]:
+        - article [ref=e99]:
+          - generic [ref=e100]: 🛡️
+          - heading "Boosts Immunity" [level=3] [ref=e101]
+          - paragraph [ref=e102]: Contains fucoidan and beta-glucans, powerful immune-modulating compounds found exclusively in sea moss.
+        - article [ref=e103]:
+          - generic [ref=e104]: 🌿
+          - heading "Improves Digestion" [level=3] [ref=e105]
+          - paragraph [ref=e106]: Acts as a prebiotic to nourish gut flora and soothe digestive inflammation for lasting relief.
+        - article [ref=e107]:
+          - generic [ref=e108]: ⚡
+          - heading "Enhances Energy Levels" [level=3] [ref=e109]
+          - paragraph [ref=e110]: Rich in B vitamins and iron to combat fatigue and sharpen mental clarity throughout the day.
+        - article [ref=e111]:
+          - generic [ref=e112]: ⚖️
+          - heading "Supports Weight Loss" [level=3] [ref=e113]
+          - paragraph [ref=e114]: Unique fibre content promotes satiety and regulates blood sugar levels naturally and effectively.
+        - article [ref=e115]:
+          - generic [ref=e116]: ✨
+          - heading "Promotes Healthy Skin" [level=3] [ref=e117]
+          - paragraph [ref=e118]: Marine collagen precursors and antioxidants improve skin elasticity, clarity, and deep hydration.
+    - generic [ref=e120]:
+      - generic [ref=e121]:
+        - heading "Our Sea Moss Range" [level=2] [ref=e122]
+        - paragraph [ref=e123]: Wildcrafted, organic and made fresh to order. Find the formula that fits your health goals.
+      - generic [ref=e124]:
+        - generic [ref=e125] [cursor=pointer]: Best Sellers
+        - generic [ref=e126] [cursor=pointer]: Immunity
+        - generic [ref=e127] [cursor=pointer]: Energy
+        - generic [ref=e128] [cursor=pointer]: Skin Care
+        - generic [ref=e129] [cursor=pointer]: Hormone Health
+      - generic [ref=e130]:
+        - link [ref=e131] [cursor=pointer]:
+          - /url: /product/faisals-demo
+          - article [ref=e132]:
+            - generic [ref=e133]:
+              - generic [ref=e134]: Best Seller
+              - img "Faisal's Demo" [ref=e136]
+            - generic [ref=e137]:
+              - generic [ref=e138]: Full Spectrum
+              - generic [ref=e139]: Purple · Gold · Green Sea Moss
+              - generic [ref=e140]:
+                - generic [ref=e141]: ★★★★★
+                - generic [ref=e142]: (2,400)
+              - generic [ref=e143]:
+                - generic [ref=e144]: £29.99
+                - generic [ref=e145]: £34.99
+                - generic [ref=e146]: Save 12%
+              - generic [ref=e147]:
+                - generic [ref=e148]:
+                  - generic [ref=e149]: ✓
+                  - generic [ref=e150]: 92 essential minerals
+                - generic [ref=e151]:
+                  - generic [ref=e152]: ✓
+                  - generic [ref=e153]: Wildcrafted in St. Lucia
+              - generic [ref=e154]: Add to Cart
+        - link [ref=e155] [cursor=pointer]:
+          - /url: /product/the-collection-snowboard-liquid
+          - article [ref=e156]:
+            - generic [ref=e157]:
+              - generic [ref=e158]: Top Rated
+              - 'img "The Collection Snowboard: Liquid" [ref=e160]'
+            - generic [ref=e161]:
+              - generic [ref=e162]: Immunity
+              - generic [ref=e163]: Ginger · Turmeric · Sea Moss
+              - generic [ref=e164]:
+                - generic [ref=e165]: ★★★★★
+                - generic [ref=e166]: (1,200)
+              - generic [ref=e167]:
+                - generic [ref=e168]: £27.99
+                - generic [ref=e169]: £32.99
+                - generic [ref=e170]: Save 15%
+              - generic [ref=e171]:
+                - generic [ref=e172]:
+                  - generic [ref=e173]: ✓
+                  - generic [ref=e174]: Boosts immune defences
+                - generic [ref=e175]:
+                  - generic [ref=e176]: ✓
+                  - generic [ref=e177]: Anti-inflammatory formula
+              - generic [ref=e178]: Add to Cart
+        - link [ref=e179] [cursor=pointer]:
+          - /url: /product/the-collection-snowboard-oxygen
+          - article [ref=e180]:
+            - generic [ref=e181]:
+              - generic [ref=e182]: Most Popular
+              - 'img "The Collection Snowboard: Oxygen" [ref=e184]'
+            - generic [ref=e185]:
+              - generic [ref=e186]: POWER+
+              - generic [ref=e187]: Sea Moss · Himalayan Shilajit
+              - generic [ref=e188]:
+                - generic [ref=e189]: ★★★★★
+                - generic [ref=e190]: (890)
+              - generic [ref=e191]:
+                - generic [ref=e192]: £34.99
+                - generic [ref=e193]: £44.99
+                - generic [ref=e194]: Save 22%
+              - generic [ref=e195]:
+                - generic [ref=e196]:
+                  - generic [ref=e197]: ✓
+                  - generic [ref=e198]: Natural energy & vitality
+                - generic [ref=e199]:
+                  - generic [ref=e200]: ✓
+                  - generic [ref=e201]: Supports testosterone
+              - generic [ref=e202]: Add to Cart
+    - generic [ref=e203]:
+      - generic [ref=e204]:
+        - generic [ref=e205]: As seen on
+        - generic [ref=e206]: BBC Dragon's Den
+        - generic [ref=e208]: Series 22 · BBC One
+      - generic [ref=e209]:
+        - generic [ref=e210]:
+          - generic [ref=e211]:
+            - generic [ref=e212]: BBC
+            - generic [ref=e213]: Dragon's Den · National Television
+          - heading "Recognised by the Dragons." [level=2] [ref=e214]:
+            - text: Recognised by
+            - text: the Dragons.
+          - paragraph [ref=e215]: Health & Holistics appeared on BBC Dragon's Den — recognised nationally for our commitment to quality, sourcing and results. Redefining modern wellness through tradition-backed science.
+          - generic [ref=e216]:
+            - paragraph [ref=e217]: “The most compelling wellness brand I've seen on this show. The product quality speaks for itself.”
+            - text: — Dragon's Den, BBC One
+          - generic [ref=e218]:
+            - generic [ref=e219]:
+              - generic [ref=e220]: "92"
+              - generic [ref=e221]: Essential minerals
+            - generic [ref=e222]:
+              - generic [ref=e223]: 2,400+
+              - generic [ref=e224]: Customers served
+            - generic [ref=e225]:
+              - generic [ref=e226]: 30day
+              - generic [ref=e227]: Money-back guarantee
+        - generic [ref=e228]:
+          - img "Health & Holistics on Dragon's Den" [ref=e229]
+          - generic [ref=e231]:
+            - generic [ref=e232]: BBC
+            - generic [ref=e233]:
+              - generic [ref=e234]: Dragon's Den
+              - generic [ref=e235]: Series 22 · BBC One
+          - generic [ref=e236]:
+            - generic [ref=e237]: Women's Health
+            - generic [ref=e238]: Vogue
+            - generic [ref=e239]: The Guardian
+            - generic [ref=e240]: Whole Foods
+    - generic [ref=e242]:
+      - generic [ref=e243]:
+        - heading "Don't Take Our Word For It" [level=2] [ref=e244]
+        - paragraph [ref=e245]: Real results from real people
+      - generic [ref=e246]:
+        - article [ref=e247]:
+          - generic "5 stars" [ref=e248]: ★★★★★
+          - paragraph [ref=e249]: “I've tried so many sea moss products but Health & Holistics is on a different level. My energy has improved massively within the first two weeks.”
+          - generic [ref=e250]: Sarah M.
+          - generic [ref=e251]: Verified buyer · 2 weeks ago
+        - article [ref=e252]:
+          - generic "5 stars" [ref=e253]: ★★★★★
+          - paragraph [ref=e254]: “My skin has completely transformed. I've been using Full Spectrum for 3 months and the difference in my skin clarity and hydration is unreal.”
+          - generic [ref=e255]: Priya K.
+          - generic [ref=e256]: Verified buyer · 1 month ago
+        - article [ref=e257]:
+          - generic "5 stars" [ref=e258]: ★★★★★
+          - paragraph [ref=e259]: “Honestly the best investment I've made for my health. My digestion is so much better and I feel more energised throughout the day. Won't stop taking it!”
+          - generic [ref=e260]: James T.
+          - generic [ref=e261]: Verified buyer · 3 weeks ago
+        - article [ref=e262]:
+          - generic "5 stars" [ref=e263]: ★★★★★
+          - paragraph [ref=e264]: “After 6 weeks of using POWER+, my gym performance has genuinely improved. Recovery is faster and I have way more mental focus during workouts.”
+          - generic [ref=e265]: Marcus O.
+          - generic [ref=e266]: Verified buyer · 2 months ago
+        - article [ref=e267]:
+          - generic "5 stars" [ref=e268]: ★★★★★
+          - paragraph [ref=e269]: “I was sceptical at first but within a month I could see and feel the difference. My hair is stronger, my nails grow faster and I sleep so much better.”
+          - generic [ref=e270]: Lena D.
+          - generic [ref=e271]: Verified buyer · 1 month ago
+        - article [ref=e272]:
+          - generic "5 stars" [ref=e273]: ★★★★★
+          - paragraph [ref=e274]: “The taste is so much better than other brands and you can tell the quality is premium. Plus it arrived super fresh. I'm a customer for life.”
+          - generic [ref=e275]: Rachel H.
+          - generic [ref=e276]: Verified buyer · 3 weeks ago
+      - link "⭐ Read all reviews on Trustpilot →" [ref=e278] [cursor=pointer]:
+        - /url: https://www.trustpilot.com
+    - generic [ref=e280]:
+      - heading "Pure Source. Proven Tradition." [level=2] [ref=e282]:
+        - text: Pure Source.
+        - text: Proven Tradition.
+      - generic [ref=e283]:
+        - generic [ref=e284]:
+          - generic [ref=e285]: 🌊
+          - generic [ref=e286]:
+            - generic [ref=e287]: Wildcrafted from the Atlantic
+            - paragraph [ref=e288]: Hand-harvested from pristine Atlantic waters with zero artificial fertilisers or pesticides — exactly as nature intended.
+        - generic [ref=e289]:
+          - generic [ref=e290]: 🧬
+          - generic [ref=e291]:
+            - generic [ref=e292]: Triple Blend Formula
+            - paragraph [ref=e293]: Three wildcrafted sea moss varieties — Chondrus Crispus, Gracilaria, and Eucheuma — for maximum nutrient density and bioavailability.
+        - generic [ref=e294]:
+          - generic [ref=e295]: 🌿
+          - generic [ref=e296]:
+            - generic [ref=e297]: Made Fresh Daily
+            - paragraph [ref=e298]: Small-batch preparation every single day ensures maximum potency — we don't let it sit in a warehouse for months.
+        - generic [ref=e299]:
+          - generic [ref=e300]: ✅
+          - generic [ref=e301]:
+            - generic [ref=e302]: Certified Organic
+            - paragraph [ref=e303]: Certified by OF&G (Organic Farmers & Growers), the UK's leading organic certification body — not just a label claim.
+    - generic [ref=e305]:
+      - heading "Recommended by top performers" [level=2] [ref=e306]
+      - generic [ref=e307]:
+        - article [ref=e308]:
+          - generic [ref=e309]: 👩‍⚕️
+          - generic [ref=e310]:
+            - generic [ref=e311]: Dr. Amara Osei
+            - generic [ref=e312]: Nutritionist & Wellness Expert
+          - paragraph [ref=e313]: "\"The mineral density in Full Spectrum is unlike anything I've seen in a supplement. I recommend it to all my patients.\""
+        - article [ref=e314]:
+          - generic [ref=e315]: 🏋️
+          - generic [ref=e316]:
+            - generic [ref=e317]: Jordan Blake
+            - generic [ref=e318]: Professional Athlete
+          - paragraph [ref=e319]: "\"My recovery time has improved significantly since adding Full Spectrum to my routine. The energy boost is absolutely real.\""
+        - article [ref=e320]:
+          - generic [ref=e321]: 🧘
+          - generic [ref=e322]:
+            - generic [ref=e323]: Simone Laurent
+            - generic [ref=e324]: Yoga Teacher & Holistic Coach
+          - paragraph [ref=e325]: "\"I've been recommending sea moss for years but H&H is the only brand I trust for certified organic quality.\""
+        - article [ref=e326]:
+          - generic [ref=e327]: 👨‍🍳
+          - generic [ref=e328]:
+            - generic [ref=e329]: Chef Marcus Reid
+            - generic [ref=e330]: Health-Focused Chef
+          - paragraph [ref=e331]: "\"The texture and freshness of H&H gel is perfect for cooking. It blends beautifully without any off-flavours.\""
+        - article [ref=e332]:
+          - generic [ref=e333]: 🎤
+          - generic [ref=e334]:
+            - generic [ref=e335]: Kemi Adewale
+            - generic [ref=e336]: Wellness Influencer, 380K
+          - paragraph [ref=e337]: "\"This is the only sea moss product I've featured on my channel twice. The results really do speak for themselves.\""
+    - generic [ref=e339]:
+      - generic [ref=e340]:
+        - generic [ref=e341]: FAQS
+        - heading "Got questions?" [level=2] [ref=e342]
+        - paragraph [ref=e343]:
+          - text: Everything you need to know before you start your sea moss journey. Still not sure?
+          - link "Contact us" [ref=e344] [cursor=pointer]:
+            - /url: /contact
+          - text: and we'll reply within 24 hours.
+      - generic [ref=e345]:
+        - group [ref=e346]:
+          - generic "What makes Health & Holistics Sea Moss Gel different?" [ref=e347] [cursor=pointer]:
+            - text: What makes Health & Holistics Sea Moss Gel different?
+            - img [ref=e348]
+        - group [ref=e350]:
+          - generic "How long will it take to notice a difference?" [ref=e351] [cursor=pointer]:
+            - text: How long will it take to notice a difference?
+            - img [ref=e352]
+        - group [ref=e354]:
+          - generic "How should I take the Sea Moss Gel?" [ref=e355] [cursor=pointer]:
+            - text: How should I take the Sea Moss Gel?
+            - img [ref=e356]
+        - group [ref=e358]:
+          - generic "Which Sea Moss Gel variety is right for me?" [ref=e359] [cursor=pointer]:
+            - text: Which Sea Moss Gel variety is right for me?
+            - img [ref=e360]
+        - group [ref=e362]:
+          - generic "Is the Sea Moss Gel suitable for vegans?" [ref=e363] [cursor=pointer]:
+            - text: Is the Sea Moss Gel suitable for vegans?
+            - img [ref=e364]
+        - group [ref=e366]:
+          - generic "Do you offer a money-back guarantee?" [ref=e367] [cursor=pointer]:
+            - text: Do you offer a money-back guarantee?
+            - img [ref=e368]
+    - generic [ref=e371]:
+      - generic [ref=e372]:
+        - generic [ref=e373]: Stay Updated
+        - heading "The Sea Moss Edit" [level=2] [ref=e374]
+        - paragraph [ref=e375]: Stay in the loop on everything sea moss — news, tips, and our latest drops.
+      - generic [ref=e376]:
+        - generic [ref=e377]:
+          - textbox "Email address" [ref=e378]:
+            - /placeholder: Enter your email address
+          - button "Subscribe" [ref=e379]
+        - paragraph [ref=e380]: No spam, ever. Unsubscribe anytime.
+    - generic [ref=e382]:
+      - generic [ref=e383]:
+        - generic [ref=e384]:
+          - img "Health & Holistics" [ref=e386]
+          - paragraph [ref=e387]: The UK's premium wildcrafted sea moss gel. Made fresh daily from certified organic Atlantic sea moss.
+          - generic [ref=e388]:
+            - link "Instagram" [ref=e389] [cursor=pointer]:
+              - /url: "#"
+              - img [ref=e390]
+            - link "Facebook" [ref=e393] [cursor=pointer]:
+              - /url: "#"
+              - img [ref=e394]
+            - link "TikTok" [ref=e396] [cursor=pointer]:
+              - /url: "#"
+              - img [ref=e397]
+        - generic [ref=e399]:
+          - heading "Shop" [level=4] [ref=e400]
+          - list [ref=e401]:
+            - listitem [ref=e402]:
+              - link "Full Spectrum" [ref=e403] [cursor=pointer]:
+                - /url: /product/full-spectrum-sea-moss-gel
+            - listitem [ref=e404]:
+              - link "Immunity+" [ref=e405] [cursor=pointer]:
+                - /url: /product/immunity-sea-moss-gel
+            - listitem [ref=e406]:
+              - link "POWER+" [ref=e407] [cursor=pointer]:
+                - /url: /product/power-sea-moss-gel
+            - listitem [ref=e408]:
+              - link "All Products" [ref=e409] [cursor=pointer]:
+                - /url: /collections/all
+        - generic [ref=e410]:
+          - heading "Company" [level=4] [ref=e411]
+          - list [ref=e412]:
+            - listitem [ref=e413]:
+              - link "Our Story" [ref=e414] [cursor=pointer]:
+                - /url: /about
+            - listitem [ref=e415]:
+              - link "Blog" [ref=e416] [cursor=pointer]:
+                - /url: /blog
+            - listitem [ref=e417]:
+              - link "Sustainability" [ref=e418] [cursor=pointer]:
+                - /url: /sustainability
+            - listitem [ref=e419]:
+              - link "FAQ" [ref=e420] [cursor=pointer]:
+                - /url: /faq
+        - generic [ref=e421]:
+          - heading "Help" [level=4] [ref=e422]
+          - list [ref=e423]:
+            - listitem [ref=e424]:
+              - link "Contact Us" [ref=e425] [cursor=pointer]:
+                - /url: /contact
+            - listitem [ref=e426]:
+              - link "Returns & Refunds" [ref=e427] [cursor=pointer]:
+                - /url: /returns
+            - listitem [ref=e428]:
+              - link "Delivery Info" [ref=e429] [cursor=pointer]:
+                - /url: /delivery
+            - listitem [ref=e430]:
+              - link "Track My Order" [ref=e431] [cursor=pointer]:
+                - /url: /track
+      - generic [ref=e432]:
+        - generic [ref=e433]: © 2026 Health & Holistics. All rights reserved.
+        - generic "Accepted payment methods" [ref=e434]:
+          - generic [ref=e435]: Visa
+          - generic [ref=e436]: MC
+          - generic [ref=e437]: Amex
+          - generic [ref=e438]: PayPal
+          - generic [ref=e439]: Apple Pay
+          - generic [ref=e440]: Google Pay
+    - region "Notifications alt+T"
+  - button "Open Next.js Dev Tools" [ref=e446] [cursor=pointer]:
+    - img [ref=e447]

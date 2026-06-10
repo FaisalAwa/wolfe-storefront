@@ -1,0 +1,174 @@
+- generic [active] [ref=e1]:
+  - navigation [ref=e2]:
+    - list [ref=e3]:
+      - listitem [ref=e4]:
+        - link "Projects" [ref=e5] [cursor=pointer]:
+          - /url: /projects/residential
+      - listitem [ref=e6]:
+        - link "Shop" [ref=e7] [cursor=pointer]:
+          - /url: /collections/all
+      - listitem [ref=e8]:
+        - link "Press" [ref=e9] [cursor=pointer]:
+          - /url: /press
+    - link "WOLFE" [ref=e10] [cursor=pointer]:
+      - /url: /
+      - generic [ref=e11]:
+        - img [ref=e12]
+        - generic [ref=e15]: WOLFE
+    - list [ref=e16]:
+      - listitem [ref=e17]:
+        - link "About" [ref=e18] [cursor=pointer]:
+          - /url: /about
+      - listitem [ref=e19]:
+        - link "Journal" [ref=e20] [cursor=pointer]:
+          - /url: /journal
+      - listitem [ref=e21]:
+        - link "Contact" [ref=e22] [cursor=pointer]:
+          - /url: /contact
+      - listitem [ref=e23]:
+        - generic [ref=e24]:
+          - textbox "Search for products..." [ref=e25]
+          - img [ref=e27]
+        - button "Open cart" [ref=e29]:
+          - img [ref=e31]
+  - main [ref=e33]:
+    - generic [ref=e34]:
+      - img "Wolfe Interior Design Studio" [ref=e35]
+      - generic [ref=e37]:
+        - generic [ref=e38]: Wolfe Interior Design
+        - heading "Designing Thoughtful Luxury" [level=1] [ref=e39]:
+          - text: Designing
+          - text: Thoughtful
+          - text: Luxury
+        - paragraph [ref=e40]: A luxury interior design studio based in Toronto and Miami, creating bespoke residential and hospitality environments alongside limited edition décor.
+    - generic [ref=e42]:
+      - generic [ref=e43]:
+        - generic [ref=e44]:
+          - generic [ref=e45]: The Studio
+          - heading "Where European Influence Meets Contemporary Living" [level=2] [ref=e46]
+        - generic [ref=e47]:
+          - paragraph [ref=e48]: Wolfe Interior Design represents the convergence of timeless European craftsmanship and contemporary design thinking. Founded with a singular vision to create interiors that transcend trends, our studio has become a trusted partner for thoughtfully designed residences and commercial spaces rooted in beauty, functionality, and enduring quality.
+          - paragraph [ref=e49]: Based in Toronto with a second atelier in Austin, Miami, Los Angeles, New York, and beyond — Wolfe Interior Design is an all-female interior design studio with over two decades of experience crafting living interiors for private clients, hospitality spaces, and developers.
+          - blockquote [ref=e50]: “We believe exceptional interiors should not only be beautiful, but also connected to how people live, gather, move, and experience their everyday environment.”
+          - paragraph [ref=e51]: Influenced by European lifestyle and design culture, our studio specializes in high-end residential interiors, full scale renovations, new construction, and boutique commercial spaces. We create environments that balance sophistication with warmth — layering natural stone, handcrafted metals, thoughtful layouts, and refined materiality.
+          - paragraph [ref=e52]: Supported by a collaborative network of artisans, fabricators, and trades across North America and Europe, Wolfe Interior Design brings together creative vision and technical expertise to deliver interiors defined by authenticity, longevity, and unrestrained luxury.
+      - generic [ref=e53]:
+        - img "Interior materials" [ref=e55]
+        - img "Design studio" [ref=e57]
+    - generic [ref=e60]:
+      - img "Jessica Neilas" [ref=e63]
+      - generic [ref=e64]:
+        - generic [ref=e65]: Founder & Creative Director
+        - heading "Jessica Neilas" [level=2] [ref=e66]
+        - generic [ref=e67]: Founder & Creative Director
+        - paragraph [ref=e68]: Jessica Neilas is the Founder and Creative Director of Wolfe Interior Design, bringing over two decades of experience in luxury residential, commercial, hospitality, and high-performance interior design across North America.
+        - paragraph [ref=e69]: Known for her highly refined architectural and technically driven approach, Jessica approaches each project with a balance of creative intent, architectural understanding, and thoughtful functionality. Her work is recognized for superlative material palette, European influence, and tailored spatial planning.
+        - paragraph [ref=e70]: Throughout her career, Jessica has designed and overseen projects spanning Toronto, Miami, Austin, Los Angeles, New York, and beyond — collaborating with private clients, developers, architects, and builders on full-scale renovations, custom homes, boutique hospitality spaces, and wellness-oriented environments.
+        - generic [ref=e71]:
+          - generic [ref=e72]:
+            - generic [ref=e73]: —
+            - text: As featured in Elle Décor, 2020, 2021, 2024
+          - generic [ref=e74]:
+            - generic [ref=e75]: —
+            - text: Elle Décor in Contemporary Design
+          - generic [ref=e76]:
+            - generic [ref=e77]: —
+            - text: Design Award for Residential Excellence
+    - generic [ref=e79]:
+      - blockquote [ref=e80]: “Our approach to design begins with understanding — creating interiors that feel refined, personal, and lasting.”
+      - text: Jessica Neilas, Founder & Creative Director
+    - generic [ref=e83]:
+      - generic [ref=e84]:
+        - generic [ref=e85]: Design Forward
+        - heading "Human-Centric Wellness Design" [level=2] [ref=e86]:
+          - text: Human-Centric
+          - text: Wellness Design
+      - generic [ref=e87]:
+        - paragraph [ref=e88]: At Wolfe Interior Design, wellness is approached not as an aesthetic trend, but as an integral part of how environments should be designed and experienced.
+        - paragraph [ref=e89]: Guided by human-centric and evidence-based design principles, our work considers the direct relationship between interior environments, emotional wellbeing, physical health, and everyday experience. Our studio believes thoughtful interior design has the ability to positively influence stress, focus, rest, social connection, and the longevity of living.
+        - paragraph [ref=e90]: Through the lens of environmental psychology and biophilic design, we carefully consider how elements such as natural light, spatial flow, acoustics, materiality, color theory, air quality, and ease of habitual connectivity condition more restorative living environments.
+        - paragraph [ref=e91]: Our goal is to create spaces that not only feel refined and timeless, but that actively enhance the physical, emotional, and psychological wellbeing of those who experience them.
+    - generic [ref=e94]:
+      - generic [ref=e95]: Begin Your Journey
+      - heading "Let's Create Something Extraordinary Together" [level=2] [ref=e96]
+      - paragraph [ref=e97]: Our team is selective about the projects we undertake, ensuring each receives the attention and artistry it deserves. We invite you to begin a conversation about your vision.
+      - link "Request Consultation" [ref=e98] [cursor=pointer]:
+        - /url: /contact
+    - generic [ref=e100]:
+      - generic [ref=e101]:
+        - generic [ref=e102]:
+          - link "WOLFE" [ref=e103] [cursor=pointer]:
+            - /url: /
+            - generic [ref=e104]:
+              - img [ref=e105]
+              - generic [ref=e108]: WOLFE
+          - paragraph [ref=e109]: Bespoke interiors and artisanal éditions for the world's most discerning clientele.
+          - generic [ref=e110]:
+            - link "Instagram" [ref=e111] [cursor=pointer]:
+              - /url: https://instagram.com
+              - img [ref=e112]
+            - link "Pinterest" [ref=e116] [cursor=pointer]:
+              - /url: https://pinterest.com
+              - img [ref=e117]
+            - link "LinkedIn" [ref=e119] [cursor=pointer]:
+              - /url: https://linkedin.com
+              - img [ref=e120]
+        - generic [ref=e122]:
+          - heading "Explore" [level=4] [ref=e123]
+          - list [ref=e124]:
+            - listitem [ref=e125]:
+              - link "Interiors" [ref=e126] [cursor=pointer]:
+                - /url: /interiors
+            - listitem [ref=e127]:
+              - link "Éditions" [ref=e128] [cursor=pointer]:
+                - /url: /collections/all
+            - listitem [ref=e129]:
+              - link "Portfolio" [ref=e130] [cursor=pointer]:
+                - /url: /projects/residential
+            - listitem [ref=e131]:
+              - link "Press" [ref=e132] [cursor=pointer]:
+                - /url: /press
+            - listitem [ref=e133]:
+              - link "Journal" [ref=e134] [cursor=pointer]:
+                - /url: /journal
+            - listitem [ref=e135]:
+              - link "The Atelier" [ref=e136] [cursor=pointer]:
+                - /url: /about
+        - generic [ref=e137]:
+          - heading "Services" [level=4] [ref=e138]
+          - list [ref=e139]:
+            - listitem [ref=e140]:
+              - link "Residential Design" [ref=e141] [cursor=pointer]:
+                - /url: /projects/residential
+            - listitem [ref=e142]:
+              - link "Commercial Interiors" [ref=e143] [cursor=pointer]:
+                - /url: /projects/commercial
+            - listitem [ref=e144]:
+              - link "Bespoke Furniture" [ref=e145] [cursor=pointer]:
+                - /url: /collections/all
+            - listitem [ref=e146]:
+              - link "Art Curation" [ref=e147] [cursor=pointer]:
+                - /url: /art-curation
+            - listitem [ref=e148]:
+              - link "Project Management" [ref=e149] [cursor=pointer]:
+                - /url: /services
+        - generic [ref=e150]:
+          - heading "Contact" [level=4] [ref=e151]
+          - generic [ref=e152]:
+            - link "atelier@wolfedesign.com" [ref=e153] [cursor=pointer]:
+              - /url: mailto:atelier@wolfedesign.com
+            - link "+1 (416) 555-1234" [ref=e154] [cursor=pointer]:
+              - /url: tel:+14165551234
+            - link "Request Consultation" [ref=e155] [cursor=pointer]:
+              - /url: /contact
+      - generic [ref=e156]:
+        - generic [ref=e157]: Global Presence · Toronto · Miami
+        - generic [ref=e158]: © 2026 Wolfe Design Inc. All rights reserved.
+        - generic [ref=e159]:
+          - link "Privacy" [ref=e160] [cursor=pointer]:
+            - /url: /privacy
+          - link "Terms" [ref=e161] [cursor=pointer]:
+            - /url: /terms
+    - region "Notifications alt+T"
+  - button "Open Next.js Dev Tools" [ref=e167] [cursor=pointer]:
+    - img [ref=e168]

@@ -1,0 +1,29 @@
+{
+  "client": "Wolfe",
+  "store_handle": "faisallstore3testing.myshopify.com",
+  "shopify_api_version": "2024-07",
+  "shopify_pending": true,
+  "session1_complete": true,
+  "session2_complete": false,
+  "pages_expected": ["home", "shop", "about", "residential", "product", "press", "commercial"],
+  "pages_done": ["home", "shop", "about", "residential", "product", "press", "commercial"],
+  "pages_remaining": [],
+  "typescript_clean": true,
+  "images_verified": true,
+  "github_repo": null,
+  "netlify_url": null,
+  "figma_url": "https://www.figma.com/design/b3k1fdtMv1RysdcO52CbVE/Wolfe--Copy-",
+  "figma_file_key": "b3k1fdtMv1RysdcO52CbVE",
+  "figma_frames_found": 7,
+  "figma_frame_ids": {
+    "home": "2005:2",
+    "shop": "2005:3",
+    "about": "2005:4",
+    "residential": "2005:5",
+    "product": "2005:6",
+    "press": "2005:7",
+    "commercial": "2005:8"
+  },
+  "created_at": "2026-06-10T00:00:00Z",
+  "last_updated": "2026-06-10T12:00:00Z"
+}

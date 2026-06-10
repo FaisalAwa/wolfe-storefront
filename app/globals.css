@@ -1,0 +1,47 @@
+@import "tailwindcss";
+
+@theme {
+  --color-brand-primary: #c9a87e;
+  --color-brand-secondary: #1a1a1a;
+  --color-brand-dark: #1a1a1a;
+  --color-brand-dark-2: #252525;
+  --color-brand-cream: #f7f4f0;
+  --color-brand-light: #fafaf8;
+  --color-brand-muted: #6b6b6b;
+  --color-brand-muted-light: #a0a0a0;
+  --color-brand-border: #e8e2d9;
+  --color-brand-gold: #c9a87e;
+
+  --font-heading: var(--font-cormorant), 'Cormorant Garamond', Georgia, serif;
+  --font-body: var(--font-inter), 'Inter', sans-serif;
+}
+
+@plugin "@tailwindcss/container-queries";
+@plugin "@tailwindcss/typography";
+
+@layer base {
+  *,
+  ::after,
+  ::before,
+  ::backdrop,
+  ::file-selector-button {
+    border-color: var(--color-brand-border, currentColor);
+  }
+
+  body {
+    background-color: #fafaf8;
+    color: #1a1a1a;
+  }
+}
+
+@supports (font: -apple-system-body) and (-webkit-appearance: none) {
+  img[loading="lazy"] {
+    clip-path: inset(0.6px);
+  }
+}
+
+a,
+input,
+button {
+  @apply focus-visible:outline-hidden focus-visible:ring-2 focus-visible:ring-[#c9a87e] focus-visible:ring-offset-2;
+}
