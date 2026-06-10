@@ -2,7 +2,7 @@
 
 ## Status
 - Session 1: ✅ COMPLETE
-- Session 2: NOT STARTED
+- Session 2: ✅ COMPLETE (pending GitHub→Netlify CI/CD link — see below)
 
 ## Pages Done
 | Page | Route | File |
@@ -42,8 +42,17 @@
 - 7 frames: 2005:2 (Home), 2005:3 (Shop), 2005:4 (About), 2005:5 (Residential), 2005:6 (Product), 2005:7 (Press), 2005:8 (Commercial)
 
 ## Shopify Credentials
-- Token: ⏳ Pending (user will provide before session 2)
-- Domain: faisallstore3testing.myshopify.com (set in .env.local)
+- Token: ✅ Set in .env.local and Netlify env vars
+- Domain: faisallstore3testing.myshopify.com
+
+## Deploy
+- GitHub: https://github.com/FaisalAwa/wolfe-storefront (branch: master)
+- Netlify: https://wolfe-store.netlify.app (site ID: 716eccbd-ab70-4291-ab2b-5592478dd94b)
+- Env vars: All 4 set in Netlify dashboard
+
+## One Remaining Step — Link GitHub → Netlify CI/CD
+Go to: https://app.netlify.com/projects/wolfe-store → Project configuration → Continuous deployment → Link repository → GitHub → FaisalAwa/wolfe-storefront → branch: master, build: `pnpm run build`, publish: `.next` → Save
+This triggers the first auto-deploy on Netlify's Linux servers (no Windows symlink issue).
 
 ## Session 2 Start Commands
 ```
